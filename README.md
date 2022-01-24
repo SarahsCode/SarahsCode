@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SarahsCode
+- 👀 I’m interested in Technology and Art
+- 🌱 I’m currently learning on refining my knowledge of website programming before expanding to other code families such as Swift, C# and Java.
